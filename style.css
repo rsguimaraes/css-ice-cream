@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 100vh;
+    width: 100%;
+    background-color: #293462;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.icecream {
+    height: 9.7rem;
+    width: 6.5rem;
+    background-color: #FFF1C1;
+    border-top-left-radius: 10rem;
+    border-top-right-radius: 10rem;
+    border-bottom-left-radius: 4rem;
+    border-bottom-right-radius: 4rem;
+}
+
+.shadow {
+    height: 0.7rem;
+    width: 2rem;
+    background-color: #A64942
+}
+
+.base {
+    height: 2.5rem;
+    width: 2rem;
+    background-color: #FE5F55;
+    border-bottom-left-radius: 0.6rem;
+    border-bottom-right-radius: 0.6rem;
+}
